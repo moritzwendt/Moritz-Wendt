@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moritz</h1>
-<h3 align="center">A passionate frontend developer and Design from Germany and I do stuff</h3>
+<h3 align="center">A passionate frontend developer and designer from Germany</h3>
 
 - 🔭 I’m currently working on **Lua Kernel Mods for FiveM**
 
